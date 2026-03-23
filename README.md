@@ -3,7 +3,7 @@
 
 - 👋 Hi, I'm a software engineer
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning AI & SRE
+- 🌱 I’m currently learning AI
 
 <!---
 cashi-dev/cashidev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
